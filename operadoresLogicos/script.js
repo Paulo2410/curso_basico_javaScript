@@ -1,0 +1,7 @@
+console.log(5 > 7 && 4 < 9)
+console.log(10 < 11 || 3 > 10)
+console.log(20 >= 20 && 4 < 9)
+console.log(30 <= 11 || 20 > 21 )
+console.log(!(9 > 3))
+console.log("abacaxi" == "Laranja" && "Banana" == "Banana") 
+console.log("Abacaxi" == "Laranja" || "Banana" == "Banana")  
